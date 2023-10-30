@@ -26,8 +26,8 @@ This is a log of my experimentation session playing with [Docker](https://www.do
 First, get the code. This will do the job:
 
 ```bash
-$ git clone https://github.com/pierredavidbelanger/spring-rabbitmq-tutum
-$ cd spring-rabbitmq-tutum
+$ git clone https://github.com/Andrew-Beard/SpringBoot_Java_Maven_RabbitMQ_Maven_Tutum
+$ cd SpringBoot_Java_Maven_RabbitMQ_Maven_Tutum
 ```
 
 ## Build the application
